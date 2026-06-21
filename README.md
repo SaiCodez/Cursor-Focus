@@ -28,10 +28,17 @@ Place `Cursor Focus.exe` in the folder that opens.
 
 Press the hotkey to show the cursor highlight for 5 seconds.
 
+## Color Selection
+
+`Ctrl + Alt + Q`
+
+Press the hotkey to show the color and size selection UI
+
 ## Features
 
 * Yellow cursor highlight
 * Auto-hides after 5 seconds
+* Custom Color Selection
 * Lightweight overlay
 * Global hotkey
 * Optional automatic startup with Windows
