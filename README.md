@@ -4,8 +4,8 @@ A lightweight Windows utility that highlights your mouse cursor with a yellow ri
 
 ## Setup
 
-1. Run `App.exe` once.
-2. Move `App.exe` into your Windows Startup folder if you want Cursor Focus to launch automatically when you sign in.
+1. Run `Cursor Focus.exe` once.
+2. Move `Cursor Focus.exe` into your Windows Startup folder if you want Cursor Focus to launch automatically when you sign in.
 3. After that, no additional setup is required.
 
 ### Open the Startup Folder
@@ -20,7 +20,7 @@ Then enter:
 
 and press Enter.
 
-Place `App.exe` in the folder that opens.
+Place `Cursor Focus.exe` in the folder that opens.
 
 ## Hotkey
 
@@ -45,5 +45,5 @@ python App.py
 ## Build
 
 ```bash
-python -m PyInstaller --onefile --noconsole App.py
+python -m PyInstaller --onefile --noconsole Cursor Focus.py
 ```
